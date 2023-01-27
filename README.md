@@ -10,7 +10,7 @@ In summary, Fourier Series decomposes a signal (such as an image) into complex e
 ## Project Preview
 
 
-https://user-images.githubusercontent.com/91396656/215150811-10021a13-2ca4-487d-8f54-48b99e501f28.mov
+![Screen Recording 2023-01-27 at 14 03 56](https://user-images.githubusercontent.com/91396656/215154634-e7140b66-378f-4eae-b1ee-04af31368604.gif)
 
 
 ## Installation and Setup Instructions
