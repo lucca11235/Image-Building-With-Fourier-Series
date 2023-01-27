@@ -13,7 +13,7 @@ In summary, Fourier Series decomposes a signal (such as an image) into complex e
 ![Screen Recording 2023-01-27 at 14 03 56](https://user-images.githubusercontent.com/91396656/215154634-e7140b66-378f-4eae-b1ee-04af31368604.gif)
 
 
-## Installation and Setup Instructions
+## Reflections
 
 
 My intent with this project was to understand the concepts behind Fourier Series and Fourier Transform in greater depth. These techniques are incredibly important in signal processing, and I found the idea both challenging and beautiful.
